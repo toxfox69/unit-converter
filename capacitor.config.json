@@ -1,0 +1,8 @@
+{
+  "appId": "com.energenai.unitconverter",
+  "appName": "Unit Converter",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}
